@@ -44,7 +44,7 @@ The dataset is sourced from **[RBI’s official website](https://www.rbi.org.in/
 - **Jupyter Notebook** for analysis  
 
 ## Acknowledgment  
-Special thanks to **Prof. Siuli Mukhopadhyay** for guidance and support.  
+Special thanks to **Prof. Ashish Das** for guidance and support.  
 
 ## How to Run the Project  
 1. Install dependencies:  
